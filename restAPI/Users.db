@@ -1,0 +1,4 @@
+{"name":"Fourth User","email":"FourthUser.gmail.com","password":"$2a$10$T8PSv4HhnJ72cwfoOsTHNexcCN4xBL5YrDwzPWLYMsIspYuWlA5KC","role":"member","2faEnabled":false,"2faSecret":null,"_id":"TAEeit0xeyQLx8xS"}
+{"name":"Third User","email":"thirdUser.gmail.com","password":"$2a$10$ffSaezKCm/m6SjsUXjG1auitId/09MaqOde1AHVf0lqYvuPOZK3v6","role":"member","2faEnabled":true,"2faSecret":"J4RGWFQ5BAEXUTDH","_id":"ZUfe82tvzbzq8Y25"}
+{"name":"Second User","email":"secondUser.gmail.com","password":"$2a$10$WqCsxJAuhjfXq.Ng7J8nPuAcsJfFc/Sf5jbvZZYQATXtO051YrB8e","role":"member","2faEnabled":false,"2faSecret":null,"_id":"qprVSb9TwGLcZz9a"}
+{"name":"First User","email":"firstUser.gmail.com","password":"$2a$10$yQIWvlO76qBKIBLgrVWx5eWDYsAzQ6YzKS1Ew6UEodomTAqXRQPie","role":"member","2faEnabled":false,"2faSecret":null,"_id":"wzpacmqoQbyN0DIF"}
